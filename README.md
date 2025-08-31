@@ -21,35 +21,20 @@ Thesis defended on **December 19, 2024**.
 ---
 
 ## 📂 Repository Structure
-- `Optimization Model - Framework/` → MATLAB implementation of the optimization algorithm.  
-- `genetic_algorithm_optimization_GIF.gif` → Animation showing the evolution of the best individual throughout the optimization process.  
-
----
-
-## 🎥 Demonstration
-The following animation illustrates the **evolution of the best individual** during the optimization run:
-
-![Optimization GIF](genetic_algorithm_optimization_GIF.gif)
-
----
-
-## 📌 Usage
-1. Ensure that **MATLAB R2023a** (or a compatible version) is installed.  
-2. Open the folder `Optimization Model - Framework/` in MATLAB.  
-3. Run the main script (`main.m` or equivalent).  
-4. The optimization process and the evolution of individuals will be displayed and saved.  
+- `Optimization Model - Icarus/` → MATLAB implementation of the optimization algorithm.  
+- `genetic_algorithm_optimization.gif` → Animation showing the evolution of the best individual throughout the optimization process.  
 
 ---
 
 ## 👨‍💻 Author
 **Caio Augusto Dias**  
-Mechanical Engineering | Universidade do Estado do Amazonas (UEA)  
+MSc Student in Mechanical (Aeronautical) Engineering @ USP  
 
 ---
 
 ## 📑 Citation
 If this work contributes to your research, please cite:
 
-*Dias, C. A. (2024). "Bi-Objective Optimization of the Conceptual Design of Low Reynolds Number Aircraft Using Genetic Algorithms." Undergraduate Thesis, Universidade do Estado do Amazonas.*  
+*Dias Filho, C. A. M. (2024). **Otimização Bi-Objetivo do Projeto Conceitual de Aeronaves de Baixo Número de Reynolds Utilizando Algoritmos Genéticos**. Undergraduate Thesis, Universidade do Estado do Amazonas."
 
 ---
