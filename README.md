@@ -9,7 +9,7 @@ The algorithms and supporting materials presented here were developed as part of
 
 > *"Bi-Objective Optimization of the Conceptual Design of Low Reynolds Number Aircraft Using Genetic Algorithms"*  
 
-Thesis defended on **January 10, 2024**.
+Thesis defended on **December 19, 2024**.
 
 ---
 
